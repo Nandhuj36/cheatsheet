@@ -5,3 +5,5 @@ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubun
 sudo apt-key fingerprint 0EBFCD88
 sudo apt-get update -y
 sudo apt-get install docker-ce docker-ce-cli containerd.io -y 
+
+
